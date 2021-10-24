@@ -1,5 +1,4 @@
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alsrb9936})](https://solved.ac/{alsrb9936})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alsrb9936)](https://solved.ac/alsrb9936/)
 
 <!--
 **alsrb9936/alsrb9936** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
